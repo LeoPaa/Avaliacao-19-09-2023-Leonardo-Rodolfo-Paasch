@@ -2,7 +2,7 @@
 projeto de teste
 ## Função Principal 
 ```
-`#0969DA`void main(){
+void main(){
     print('hello');
 }
 ```
